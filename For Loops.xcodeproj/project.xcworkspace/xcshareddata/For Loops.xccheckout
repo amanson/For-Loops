@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF4C8DA8-7AD6-4205-9FE7-F25C0D785543</string>
+	<key>IDESourceControlProjectName</key>
+	<string>For Loops</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C96C4162AFD6F40E89BE0389163012E0EC6497F8</key>
+		<string>https://github.com/amanson/For-Loops.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>For Loops.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C96C4162AFD6F40E89BE0389163012E0EC6497F8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amanson/For-Loops.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C96C4162AFD6F40E89BE0389163012E0EC6497F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C96C4162AFD6F40E89BE0389163012E0EC6497F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>For%20Loops</string>
+		</dict>
+	</array>
+</dict>
+</plist>
